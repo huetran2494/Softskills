@@ -11,3 +11,5 @@ There key components to data storytelling:
 SET UP: Just some reality. By reality, we just mean a situation. It could be fictional but it's a reality
 CONFLICT: You have conflict, which has changed that reality. The term “conflict” is in this context an area or point of immediate or dramatic variance in the data
 RESOLUTION: just the new reality that the change creates
+
+
